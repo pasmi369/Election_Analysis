@@ -14,6 +14,7 @@ The overview of the Election Analysis at US Congressional Rate is to find the el
     ![Turnout](./Resources/Largest_Turnout.png)
 - ### Winning Results are:
     ![Winning_Results](./Resources/Winning_Results.png)
+    
 ### Diana DeGetter who recieved 272,892 votes with 73.8% was winner of the Election Result.
 
 # Election-Audit Summary: 
