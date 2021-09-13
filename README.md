@@ -22,5 +22,5 @@ This script can be used in the future to perform any elections by refactoring th
 
 - We can write a common utility which reads .csv file taking the file path as input parameter.
 -  We can do further analysis using data attributes such as age, gender, population to have further clarification on voting results. 
--  We just need to ensure the code is giving desired results by doing proper testing anlaysis.
+-  We just need to ensure the code is giving desired results by doing proper testing analysis.
 
